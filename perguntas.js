@@ -18,3 +18,8 @@ criaCartao(
     'O que é VSCode?',
     'O Visual Studio Code é um editor de código com diversas integrações.'
 )
+criaCartao(
+    'navegador',
+    'O que é o DOM?',
+    'O DOM é a estrutura em árvore que representa os elementos de uma página web e permite manipulá-los com JavaScript.'
+)
