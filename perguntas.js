@@ -57,9 +57,9 @@ criaCartao(
 criaCartao(
     '08', 
     'Mestre mandou...', 
-    'Fingir que a câmera travou com os seus olhos fechados.',
-    'smiling.png',
-    ''
+    'Fingir que a câmera travou com careta.',
+    'grimacing.png',
+    'fake'
 )
 
 criaCartao(
