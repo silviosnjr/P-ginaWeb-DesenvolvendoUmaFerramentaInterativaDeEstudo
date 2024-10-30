@@ -9,6 +9,7 @@
 body {
   background: url(img/bg-desktop-green.webp);
   font-family: Gluten;
+  margin:0;
 }
 
 #container{
