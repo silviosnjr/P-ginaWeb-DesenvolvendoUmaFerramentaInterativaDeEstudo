@@ -121,14 +121,15 @@ img {
     background-color: #2256ff; /*alterado*/
     border: 4px solid #00218c; /*alterado*/
 }
+
 @media (max-width: 560px) {
     
     body{
-        background: url('img/bg-mobile.webp');    
+        /* background: url('img/bg-mobile.webp');     */
     }
 
     .cartao{
-        flex: 1 0 calc(100% - 1rem);
+        flex: 1 0 calc(33% - 1rem);
     }
     
     .cartao__conteudo h3{
