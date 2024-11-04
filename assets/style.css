@@ -53,7 +53,7 @@ body {
     font-weight: 700;
   }
 
-  .cartao:hover .cartao__conteudo{
+  .cartao.active .cartao__conteudo{ /*mudei o hover para ative*/
     transform: rotateY(180deg);  
   }
 
